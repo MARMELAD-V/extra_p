@@ -1,10 +1,8 @@
 #ifndef PIPELINE_H
 #define PIPELINE_H
 
-#include <functional>
 #include <type_traits>
 #include <utility>
-#include <iostream>
 #include <stdexcept>
 #include <iterator>
 
